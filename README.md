@@ -1,22 +1,13 @@
 <div align="center">
-<img src="https://c.tenor.com/UyHqH4Z5ji4AAAAM/bear-hello.gif" align="center" height="300" width="920" />
+<img src="https://c.tenor.com/UyHqH4Z5ji4AAAAM/bear-hello.gif" align="center" height="500" width="920" />
 </div>  
   
 
 ### <div align="center">Hey Guys, I am Akash, you guys can call me Electro😊😊⚡⚡</div>  
   
 
-<div align="center">🔭 I’m currently trainee and learning new Languages and working on web development.😝</div>  
-  
 
-<div align="center">🌱 I’m currently learning PHP and Laravel😜😜😜😜😜</div>  
-  
-
-<div align="center">⚡ Fun fact: I use tabs over spaces</div>  
-  
-
-<div align="center">
-<img src="https://media3.giphy.com/media/Qv7y2Tl4ki7Ru/200w.webp?cid=ecf05e47pb7uhbxun72v60u2vnsaa458ej4frjhcahwxlcxe&rid=200w.webp&ct=g" align="center" height="" width="400" />
+<img src="https://media3.giphy.com/media/Qv7y2Tl4ki7Ru/200w.webp?cid=ecf05e47pb7uhbxun72v60u2vnsaa458ej4frjhcahwxlcxe&rid=200w.webp&ct=g" align="center" height="500" width="1080" />
 </div>  
   
 
