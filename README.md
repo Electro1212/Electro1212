@@ -1,125 +1,55 @@
-<div align="center">
-<img src="https://c.tenor.com/UyHqH4Z5ji4AAAAM/bear-hello.gif" align="center" height="500" width="720" />
-</div>  
-  
+<h1 align="center">Hi there! I'm Akash, aka <a href="https://github.com/Electro1212">Electro</a>. 👋</h1>
+<h3 align="center">I am a trainee programmer. I just love to code.</h3>
 
-### <div align="center">Hey Guys, I am Akash, you guys can call me Electro😊😊⚡⚡</div>  
-  
+- 🌱 I’m currently learning **PHP, Ajax, Laravel, and Javascript**
 
+- 🤝 I’m looking for help with **[an ecommerce project](https://github.com/Electro1212/Ecommerce-1st-Project)**
 
-<img src="https://media3.giphy.com/media/Qv7y2Tl4ki7Ru/200w.webp?cid=ecf05e47pb7uhbxun72v60u2vnsaa458ej4frjhcahwxlcxe&rid=200w.webp&ct=g" align="center" height="500" width="1080" />
-</div>  
-  
+- 😄 My pronouns are **she/her**
 
-<br/>  
+- 
 
+<h3 align="center">Languages & Tools</h3>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Electro1212" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@AkashElectro" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-debnath-204254244/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/people/Akash-Debnath/100013110429821/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/__akash__debnath__/?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Electro1212&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Electro1212&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/@AkashELECTRO" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+<p align="center">
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/git.svg" title="Git" alt="git" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/githubactions.svg" title="GitHub Actions" alt="github actions" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/dependabot.svg" title="Dependabot" alt="dependabot" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/gnubash.svg" title="Bash" alt="bash" width="40" height="40"/>
 <br />
+<img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/markdown.svg" title="Markdown" alt="markdown" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/openjdk.svg" title="OpenJDK" alt="openjdk" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/npm.svg" title="NPM" alt="npm" alt="npm" with="40" height="40"/>
+<img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Electro1212&show_icons=true&count_private=true" alt="GitHub Profile Stats"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electro1212&layout=compact&card_width=445" alt="GitHub Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Electro1212&column=4" alt="GitHub Profile Trophies">
+</p>
+
+<h3 align="center">Connect With Me</h3>
+
+<p align="center">
+<a href="https://top.gg/servers/299308204393889802" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
+<a href="https://twitter.com/AkashElectro" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=ravendwyr&label=Profile+Views&style=flat-square)
+
+[![Twitter](https://img.shields.io/twitter/follow/AkashElectro?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
+[![Sponsor](https://img.shields.io/github/sponsors/Electro1212?label=Sponsors&logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
