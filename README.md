@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **[an ecommerce project](https://github.com/Electro1212/Ecommerce-1st-Project)**
 
-- 😄 My pronouns are **she/her**
+- 😄 My pronouns are **he/him**
 
 - 
 
