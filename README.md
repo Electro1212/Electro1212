@@ -27,6 +27,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Electro1212&column=4" alt="GitHub Profile Trophies">
 </p>
+<p  align="center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" /></p>
 
 <h3 align="center">Connect With Me</h3>
 
@@ -34,7 +35,7 @@
 <a href="https://top.gg/servers/299308204393889802" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 <a href="https://twitter.com/AkashElectro" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" /></p>
+
 
 ![](https://komarev.com/ghpvc/?username=Electro1212&label=Profile+Views&style=flat-square)
 
