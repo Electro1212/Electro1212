@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://top.gg/servers/299308204393889802" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-<a href="https://twitter.com/AkashElectro" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a
+<a href="https://twitter.com/AkashElectro" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 
 
 [![Twitter](https://img.shields.io/twitter/follow/AkashElectro?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
