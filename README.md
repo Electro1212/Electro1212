@@ -9,7 +9,6 @@
 
 - 😄 My pronouns are **he/him**
 
-- 
 
 <h3 align="center">Languages & Tools</h3>
 
@@ -36,8 +35,9 @@
 <a href="https://twitter.com/AkashElectro" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 
 
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=Electro1212&label=Profile+Views&style=flat-square)
 
 [![Twitter](https://img.shields.io/twitter/follow/AkashElectro?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
 [![Sponsor](https://img.shields.io/github/sponsors/Electro1212?label=Sponsors&logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
+</p>
