@@ -40,3 +40,5 @@
 
 ![](https://komarev.com/ghpvc/?username=Electro1212&label=Profile+Views&style=flat-square)
 
+Generates a snake game from a github user contributions graph
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
