@@ -25,8 +25,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Electro1212&column=4" alt="GitHub Profile Trophies">
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Electro1212&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Electro1212&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" /></p>
 
 <h3 align="center">Connect With Me</h3>
