@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi there! I'm Akash, aka <a href="https://github.com/Electro1212">Electro</a>. 👋</h1>
 <h3 align="center">I am a trainee programmer. I just love to code.</h3>
@@ -17,16 +17,12 @@
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Electro1212&show_icons=true&count_private=true" alt="GitHub Profile Stats"/>
- <p align="right">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electro1212&layout=compact&card_width=445" alt="GitHub Top Languages"/>
 </p>
-</p>
-
-
-
-
-
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" /></p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Electro1212&column=4" alt="GitHub Profile Trophies">
