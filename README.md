@@ -23,11 +23,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electro1212&layout=compact&card_width=445" alt="GitHub Top Languages"/>
 </p>
 
+
+
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" /></p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Electro1212&column=4" alt="GitHub Profile Trophies">
 </p>
-
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" /></p>
 
 <h3 align="center">Connect With Me</h3>
 
