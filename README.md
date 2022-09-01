@@ -17,7 +17,10 @@
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Electro1212&show_icons=true&count_private=true" alt="GitHub Profile Stats"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" />
+</p>
+
+<p align="right">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Electro1212&" alt="Electro1212" />
 </p>
 
 <p align="center">
